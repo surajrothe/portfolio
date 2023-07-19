@@ -6882,13 +6882,13 @@
   */
 
   img[alt='www.000webhost.com'] {
-	  display: none;;
+	  display: none;
   }
 
 
   @media (max-width:650px){
 	.bg {
-	  display: none
+	  display: none;
 	}
   }
  
